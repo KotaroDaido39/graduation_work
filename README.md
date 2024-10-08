@@ -21,7 +21,7 @@
 
 # ③DEMO
 
-- 本体:http://localhost:5173/graduation/mypage
+- 本体:https://ddktr.sakura.ne.jp/graduation/
 
 # ④作ったアプリケーション用のIDまたはPasswordがある場合
 
